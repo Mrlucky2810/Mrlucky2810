@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mrlucky2810
+- 👋 Hi, I’m Lucky Singh.
 - 👀 I’m interested in Gaming and Coding.
-- 🌱 I’m currently learning C programming Language.
-- 💞️ I’m looking to collaborate on Any Project related to C.
+- 🌱 I have learned HTML, CSS, JS, C.
+- 💞️ I’m looking to collaborate on Any Project related to HTML, CSS, JS, C.
 - 📫 Insta @mrlucky_28
 
 <!---
