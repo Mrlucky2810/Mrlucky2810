@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucky Singh.
 - 👀 I’m interested in Gaming and Coding.
-- 🌱 I have learned HTML, CSS, JS, C.
+- 🌱 I have learned HTML, CSS, JS, React JS, C, C++.
 - 💞️ I’m looking to collaborate on Any Project related to HTML, CSS, JS, React JS, C, C++.
 - 📫 Insta @mrlucky_28
   
